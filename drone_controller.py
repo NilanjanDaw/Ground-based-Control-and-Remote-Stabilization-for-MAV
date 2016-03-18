@@ -7,7 +7,7 @@ from cfclient.utils.logconfigreader import LogConfig
 from cflib.crazyflie import Crazyflie
 
 """
-    Controller class to control the "crazy" Crazyflie 2.0 drone
+    Controller class to control the Crazyflie 2.0 drone
 """
 
 
